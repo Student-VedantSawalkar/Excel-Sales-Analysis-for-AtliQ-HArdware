@@ -2,7 +2,7 @@
 
 ## 🎯 Project Objectives
 1. 📈 Create a detailed [_Customer Performance Report_](https://github.com/Student-VedantSawalkar/Excel---Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)
-2. 📊 Conduct a comprehensive comparison of [_Market Performance vs. Sales Targets_](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
+2. 📊 Conduct a comprehensive comparison of [_Market Performance vs. Sales Targets_](https://github.com/Student-VedantSawalkar/Excel---Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ---
 
